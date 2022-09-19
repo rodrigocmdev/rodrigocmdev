@@ -7,6 +7,7 @@
 
 ![Rodrigocmdev GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocmdev&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocmdev)](https://github.com/rodrigocmdev/github-readme-stats)
 
 ### Tecnologias que uso no meu dia a dia 👨🏻‍💻
 
