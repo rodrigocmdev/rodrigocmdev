@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rodrigocm.w@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/rodrigocm91#1547)
 
-![Rodrigocmdev GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocmdev&theme=dark&show_icons=true)
+![Rodrigocmdev GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocmdev&theme=holi_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocmdev)](https://github.com/rodrigocmdev/github-readme-stats)
 
